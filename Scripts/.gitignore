@@ -1,0 +1,12 @@
+# Sensitive log files (users IP and ISP data).
+IP_log.txt
+network_log.txt
+*.log
+
+# Python system and temporary files.
+__pycache__/
+*.py[cod]
+
+# Virtual environments.
+.venv/
+env/
